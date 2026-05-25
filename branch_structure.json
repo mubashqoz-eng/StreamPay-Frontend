@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/soroban-contracts-scaffold",
+    "fix/issue-1681-bound-metrics-route-labels-and-redact-ips",
+    "fix/issue-1720-scope-idempotency-records-to-stream-id",
+    "fix/issue-1738-strict-keyset-cursors-for-list-pagination",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/soroban-contracts-scaffold": "main",
+    "fix/issue-1681-bound-metrics-route-labels-and-redact-ips": "main",
+    "fix/issue-1720-scope-idempotency-records-to-stream-id": "main",
+    "fix/issue-1738-strict-keyset-cursors-for-list-pagination": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/soroban-contracts-scaffold",
+    "fix/issue-1681-bound-metrics-route-labels-and-redact-ips",
+    "fix/issue-1720-scope-idempotency-records-to-stream-id",
+    "fix/issue-1738-strict-keyset-cursors-for-list-pagination",
+    "origin"
+  ]
+}
